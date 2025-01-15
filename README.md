@@ -8,4 +8,4 @@ To start the program, run the command below in a shell:
 ```bash
 python3 main.py
 ```
-The project idea was obtained from [karan/Projects](https://github.com/karan/Projects).
+The project idea was obtained from [karan/Projects](https://github.com/karan/Projects#numbers).
